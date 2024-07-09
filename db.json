@@ -1,0 +1,202 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "mohamed",
+            "username": "mohamed",
+            "password": "12345",
+            "description": "وصف المستخدم",
+            "address": "عنوان المستخدم",
+            "phone": "رقم الهاتف",
+            "socialMedia": ["WhatsApp", "Snapchat", "Instagram", "YouTube", "Facebook"],
+            "socialMediaLinks": [
+                { "name": "whatsapp", "url": "#" },
+                { "name": "snapchat", "url": "#" },
+                { "name": "instagram", "url": "#" },
+                { "name": "youtube", "url": "#" },
+                { "name": "facebook", "url": "#" }
+            ],
+            "profileImage": "path_to_profile_picture",
+            "bannerImage": "path_to_banner_image",
+            "role": "مدير"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "عناوين  او  1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        }, {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        },
+        {
+            "id": 1,
+            "title": "عنوان المنتج او الخدمة 1",
+            "description": "وصف المنتج او الخدمة",
+            "date": "2024-07-04",
+            "location": "الموقع",
+            "publisher": "محمد",
+            "category": "نزهة",
+            "image": "https://thecoolhunter.net/wp-content/uploads/2023/11/Alphine_house11.jpg",
+            "phone": "123456789",
+            "featured": false
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "postId": 1,
+            "userId": 1,
+            "text": "هذا تعليق رائع",
+            "date": "2024-07-04T12:00:00Z"
+        }
+    ]
+}
